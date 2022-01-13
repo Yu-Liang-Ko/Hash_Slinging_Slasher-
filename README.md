@@ -5,10 +5,10 @@
 ## 硬體設備
 |設備名|圖片|來源
 |-|-|-|
-|樹梅派 Pi4|![](https://i.imgur.com/ShpYn19.png =200x)|柏瑋友情贊助
-|USB全指向降噪麥克風(MIC-026)|![](https://i.imgur.com/fNKUQcY.jpg =200x)|欣華電子
-|杜邦線<br/>1. 公對公<br/>2. 公對母<br/>3. 母對母|![](https://i.imgur.com/ca5f9zh.png =100x)![](https://i.imgur.com/dh4YwPm.png =100x)![](https://i.imgur.com/LQgyceZ.png =100x)|今華電子
-|5V 滴膠燈條 --- 型號(WS2812B)+控制器|![](https://i.imgur.com/SPqFdUy.png =200x)|[蝦皮](https://shopee.tw/%E3%80%90%E4%B8%AD%E9%83%A8%E7%8F%BE%E8%B2%A8%E3%80%91%E7%8F%BE%E8%B2%A8-WS2812B-%E5%B9%BB%E5%BD%A9-%E5%85%A8%E5%BD%A9-%E7%87%88%E6%A2%9D-5V-%E6%BB%B4%E8%86%A0-%E5%BE%AE%E7%AC%91%E7%87%88-%E6%B0%A3%E5%A3%A9%E7%87%88-%E5%B0%BE%E7%AE%B1%E7%87%88-%E7%87%88%E6%A2%9D-%E8%B7%91%E9%A6%AC-%E6%B5%81%E6%B0%B4-WS2811-i.97901339.1600691516?gclid=Cj0KCQiAt8WOBhDbARIsANQLp97byEoNNos5V1EgUVSeY3ZC25vHB5ACzIDCwE-j21K9fjI-OGeNf4kaAri6EALw_wcB)
+|樹梅派 Pi4|![line_20220113_175633](https://user-images.githubusercontent.com/82037691/149307980-c5d3bf63-8d61-42cb-8f9f-f6b718e01248.png)|柏瑋友情贊助
+|USB全指向降噪麥克風(MIC-026)|![line_20220113_180207](https://user-images.githubusercontent.com/82037691/149308887-82bdc620-7907-4313-914e-660195fb562e.png)|欣華電子
+|杜邦線<br/>1. 公對公<br/>2. 公對母<br/>3. 母對母||今華電子
+|5V 滴膠燈條 --- 型號(WS2812B)+控制器|![line_20220113_180335](https://user-images.githubusercontent.com/82037691/149309132-00318bd0-60d0-4e21-9df2-3e78e46fc205.png)|[蝦皮](https://shopee.tw/%E3%80%90%E4%B8%AD%E9%83%A8%E7%8F%BE%E8%B2%A8%E3%80%91%E7%8F%BE%E8%B2%A8-WS2812B-%E5%B9%BB%E5%BD%A9-%E5%85%A8%E5%BD%A9-%E7%87%88%E6%A2%9D-5V-%E6%BB%B4%E8%86%A0-%E5%BE%AE%E7%AC%91%E7%87%88-%E6%B0%A3%E5%A3%A9%E7%87%88-%E5%B0%BE%E7%AE%B1%E7%87%88-%E7%87%88%E6%A2%9D-%E8%B7%91%E9%A6%AC-%E6%B5%81%E6%B0%B4-WS2811-i.97901339.1600691516?gclid=Cj0KCQiAt8WOBhDbARIsANQLp97byEoNNos5V1EgUVSeY3ZC25vHB5ACzIDCwE-j21K9fjI-OGeNf4kaAri6EALw_wcB)
 |一台裝有 Linux 的電腦 ||
 ## 如何進行
 telegram bot
